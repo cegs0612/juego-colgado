@@ -35,7 +35,6 @@ function App() {
 
   const retryGame = ()=>{
     setIsGameOpen(false);//dismounts game
-    console.log("setGame 2")
     setGame(2);
   }
 
