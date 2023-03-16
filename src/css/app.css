@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+body{
+    background: rgb(36,0,2);
+    background: linear-gradient(39deg, rgba(36,0,2,1) 0%, rgba(121,25,9,1) 30%, rgba(144,89,7,1) 70%, rgba(204,255,0,1) 100%); 
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+}
